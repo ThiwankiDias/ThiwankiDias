@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm H. Thiwanki Dias Hettiarachchi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiwankidias&label=Profile%20views&color=0e75b6&style=flat" alt="thiwankidias" /> </p>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **ReactJS Project**
 
 - 👀 I'm interested in learning new technologies **..**
 
