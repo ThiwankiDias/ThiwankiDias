@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in learning new technologies **..**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Azure DevOps services**
 
 - 📫 How to reach me: **hthiwanki293@gmail.com**
 
