@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in learning new technologies **..**
 
-- 🌱 I’m currently learning **Spring Boot framework**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 📫 How to reach me: **hthiwanki293@gmail.com**
 
