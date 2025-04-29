@@ -5,7 +5,7 @@
 
 - 👀 I'm interested in learning new technologies **..**
 
-- 🌱 I’m currently learning **ASP.NET Core And Angular**
+- 🌱 I’m currently learning **Microsoft Entra ID (Azure AD) Authentication/Authorization**
 
 - 📫 How to reach me: **hthiwanki293@gmail.com**
 
